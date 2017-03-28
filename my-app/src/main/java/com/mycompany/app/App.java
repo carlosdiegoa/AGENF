@@ -8,6 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        JOptionPane.showMessageDialog(null,"Bem vindo á Agenda Fácil");
+
+        //TODO: Fazer o resto do front end usando Swing.
     }
 }
